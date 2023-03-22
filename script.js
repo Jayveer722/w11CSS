@@ -68,7 +68,7 @@ widgetBtn.addEventListener("click", function() {
 // turn off computer (graficamente e virtualmente) 
 spegniBtn.addEventListener("click", function() {
     spegniContainer.classList.toggle("pc-off");
-    alert("adesso, windows 11 (web edition) \nsi spegnerà virtualmente, \n \nper ritornare alla homepage, \ncliccare qualsiasi punto sullo schermo!");
+    alert("ok, windows 11 (web edition) \nit will trigger, \n \ndisappear of page but it will show screen saver, \nclick anywhere to come on page!");
 });
 
 spegniContainer.addEventListener("click", function() {
